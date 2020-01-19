@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 线程以及10个消费者线程的阻塞调用
  * 
  * 这里使用Lock和Condition实现
- * @author Peter
+ * @author qupeng
  */
 public class Examination08 {
 	

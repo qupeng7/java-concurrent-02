@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 
  * 可以使用进行tryLock尝试加锁。
  * 注意：不管tryLock返回值如何都会继续往下执行。
- * @author Peter
+ * @author qupeng
  */
 public class ReentrantLockTest03 {
 	

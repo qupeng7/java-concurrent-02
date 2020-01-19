@@ -4,7 +4,7 @@ package com.qupeng.concurrent.day02.part4;
 /**
  * 线程内部的局部变量：
  * 可以实现共享数据在线程范围内的线程安全
- * @author Peter
+ * @author qupeng
  */
 public class ThreadLocalTest01 {
 	

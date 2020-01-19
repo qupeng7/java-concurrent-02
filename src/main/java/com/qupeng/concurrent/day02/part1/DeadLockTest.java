@@ -2,7 +2,7 @@ package com.qupeng.concurrent.day02.part1;
 
 /**
  * 演示死锁现象
- * @author Peter
+ * @author qupeng
  */
 public class DeadLockTest {
 	

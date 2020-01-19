@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 线程内部的局部变量： 可以实现共享数据在线程范围内的线程安全 自己实现一个ThreadLocal的功能
  * 
- * @author Peter
+ * @author qupeng
  */
 public class ThreadLocalTest02 {
 

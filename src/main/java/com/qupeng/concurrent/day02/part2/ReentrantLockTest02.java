@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 因为synchronized实现同步的过程中，如果出现异常
  * 那么会自动释放锁，但是使用ReentrantLock却必须手动
  * 释放锁。
- * @author Peter
+ * @author qupeng
  */
 public class ReentrantLockTest02 {
 	

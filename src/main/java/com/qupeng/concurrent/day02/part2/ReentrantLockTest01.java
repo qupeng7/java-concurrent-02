@@ -2,7 +2,7 @@ package com.qupeng.concurrent.day02.part2;
 
 /**
  * 使用传统的同步技术synchronized关键字实现同步
- * @author Peter
+ * @author qupeng
  */
 public class ReentrantLockTest01 {
 	

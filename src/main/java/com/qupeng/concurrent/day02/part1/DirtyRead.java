@@ -5,7 +5,7 @@ package com.qupeng.concurrent.day02.part1;
  * 演示脏读
  * 对修改、删除、添加操作加锁，
  * 对查询操作不加锁时就会产生脏读
- * @author Peter
+ * @author qupeng
  */
 public class DirtyRead {
 	

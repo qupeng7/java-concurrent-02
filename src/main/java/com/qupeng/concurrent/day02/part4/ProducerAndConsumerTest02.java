@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 生产者和消费者模式
  * 
  * 这里用Lock和Condition实现
- * @author Peter
+ * @author qupeng
  */
 public class ProducerAndConsumerTest02 {
 	

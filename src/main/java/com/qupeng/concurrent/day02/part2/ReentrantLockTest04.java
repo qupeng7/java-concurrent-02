@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 使用ReentrantLock实现同步
  * 
  * 使用lockInterruptibly对中断行为进行感知
- * @author Peter
+ * @author qupeng
  */
 public class ReentrantLockTest04 {
 	

@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 使用ReentrantLock实现同步
  * 
  * 实现公平锁
- * @author Peter
+ * @author qupeng
  */
 public class ReentrantLockTest05 {
 	

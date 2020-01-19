@@ -5,7 +5,7 @@ package com.qupeng.concurrent.day02.part4;
  * 生产者和消费者模式
  * 
  * 这里模拟炸油条和吃油条
- * @author Peter
+ * @author qupeng
  */
 public class ProducerAndConsumerTest01 {
 	

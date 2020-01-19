@@ -10,7 +10,7 @@ import java.util.List;
  * 线程以及10个消费者线程的阻塞调用
  * 
  * 这里使用wait和nodify/nodifyAll实现
- * @author Peter
+ * @author qupeng
  */
 public class Examination07 {
 	
